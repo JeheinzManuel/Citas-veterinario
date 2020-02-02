@@ -1,2 +1,2 @@
 # Citas-veterinario
-Este proyecto esta echo con React y consiste en ingresar citas para una veterinaria
+Este proyecto esta echo con React y consiste en registrar citas, para una veterinaria y a la vez poder ser visualizadas 
