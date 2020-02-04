@@ -1,7 +1,7 @@
 # Citas-veterinario
 Este proyecto esta echo con React y consiste en registrar citas, para una veterinaria y a la vez poder ser visualizadas 
 
-Puedes ver una demostración del proyecto en este enlace: https://eager-albattani-e72cfc.netlify.com/
+Puedes ver una demostración del proyecto en este enlace: https://react-animalsite.netlify.com
 
 Requisitos:
 El Unico Requisito para ejecutar el projecto es Tener Instalado Node.js .
